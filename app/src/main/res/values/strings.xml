@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temp Wallpaper Changer</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="change">Change</string>
+    <string name="turn">Turn</string>
+
+    <string name="database">wallchanger</string>
+
+</resources>
